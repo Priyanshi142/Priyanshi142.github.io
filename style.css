@@ -16,4 +16,7 @@ label,select,.state,.reset{
 }
 body{
 	background-color:#f7f1e2;
+	background-image:url('https://img.freepik.com/free-photo/surgical-face-mask-blue-background-protection-against-covid-19-coronavirus-healthcare-medical-concept_293060-18.jpg?size=626&ext=jpg');
+	background-attachment: fixed;
+  	background-size: cover;
 }
