@@ -1,6 +1,18 @@
 #root{
 	text-align:center;
 	color:purple;
+	height: 360px;
+}
+#root h2{
+	color:purple;
+	text-align:center;
+	display:inline-block;
+	height:20px;
+	padding: 30px 30px;
+
+}
+#root h2:hover{
+	background-image: linear-gradient(to right,#87CEFA,#1E90FF);
 }
 label,select,input{
 	font-size:20px;
@@ -10,6 +22,7 @@ label,select,input{
 #root1,#root2{
 	text-align:center;
 	color:purple;
+	display:inline;
 }
 #t2{
 	background-color:purple;
@@ -21,4 +34,7 @@ label{
 }
 body{
 	background-color:#f7f1e2;
+	background-image:url('https://cdn3.vectorstock.com/i/1000x1000/05/12/composition-coronavirus-covid-19-background-vector-30310512.jpg');
+	background-attachment: fixed;
+  	background-size: cover;
 }
